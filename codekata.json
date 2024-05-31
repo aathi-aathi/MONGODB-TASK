@@ -1,0 +1,49 @@
+[
+    {
+        "userId": 1,
+        "name": "John Doe",
+        "Input/Output":10,
+        "Absolute_beginner":30,
+        "Array":135,
+        "mathematics":167,
+        "strings":176
+    
+},
+{
+    "userId": 2,
+    "name": "Jane Smith",
+    "Input/Output":10,
+    "Absolute_beginner":30,
+    "Array":208,
+    "mathematics":147,
+    "strings":166
+
+},
+{
+    "userId": 3,
+    "name": "Emily Johnson",
+    "Input/Output":10,
+    "Absolute_beginner":30,
+    "Array":218,
+    "mathematics":135,
+    "strings":88
+},
+{
+    "userId": 4,
+      "name": "Michael Brown",
+    "Input/Output":9,
+    "Absolute_beginner":30,
+    "Array":188,
+    "mathematics":126,
+    "strings":178
+
+},{
+    "userId": 5,
+    "name": "Linda Davis",
+    "Input/Output":10,
+    "Absolute_beginner":30,
+    "Array":258,
+    "mathematics":121,
+    "strings":114
+}
+]

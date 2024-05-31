@@ -1,0 +1,29 @@
+[
+    {
+        "topic":"Intro to React",
+    "task":"React Price Card",
+    "date":"2020-10-12"
+    },
+    {
+    "topic":"React components",
+    "task":"Landing Page-Theme preview",
+    "date":"2020-10-20"
+    },
+    {
+        "topic":" props, state, rendering",
+        "task":"React Shopping Cart",
+        "date":"2020-10-28"
+        },
+        {
+            "topic":"React Hooks",
+            "task":"Todo App",
+            "date":"2020-11-04"
+            },
+            {
+                "topic":"Axios",
+                "task":"React Axios Task",
+                "date":"2020-11-12"
+                }
+
+
+]

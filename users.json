@@ -1,0 +1,33 @@
+[
+    {
+      "userId": 1,
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "course": "Full Stack-MERN"
+    },
+    {
+      "userId": 2,
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "course": "Full Stack-MERN"
+    },
+    {
+      "userId": 3,
+      "name": "Emily Johnson",
+      "email": "emily.johnson@example.com",
+      "course": "Full Stack-MERN"
+    },
+    {
+      "userId": 4,
+      "name": "Michael Brown",
+      "email": "michael.brown@example.com",
+      "course": "Full Stack-MERN"
+    },
+    {
+      "userId": 5,
+      "name": "Linda Davis",
+      "email": "linda.davis@example.com",
+      "course": "Full Stack-MERN"
+    }
+  ]
+  
